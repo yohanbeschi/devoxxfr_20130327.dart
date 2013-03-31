@@ -1,0 +1,8 @@
+name: devoxxfr_20130327
+description: Demo for DevoxxFR 2013
+dependencies:
+  pwt_proto:
+    git:
+      ref: '20130331'
+      url: git://github.com/yohanbeschi/pwt_proto.dart
+  browser: any
